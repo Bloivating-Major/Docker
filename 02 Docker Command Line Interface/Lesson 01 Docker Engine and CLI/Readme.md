@@ -1,0 +1,3 @@
+- `docker ps` → List running containers
+- `docker ps -a` → List all containers (including stopped)
+- `docker images` → List all available images
